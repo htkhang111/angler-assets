@@ -1,0 +1,52 @@
+{
+    "Anchovy.png": {
+        "id": 1,
+        "code_name": "anchovy",
+        "new_file": "01_anchovy.webp"
+    },
+    "Angelfish.png": {
+        "id": 2,
+        "code_name": "angelfish",
+        "new_file": "02_angelfish.webp"
+    },
+    "Bass.png": {
+        "id": 3,
+        "code_name": "bass",
+        "new_file": "03_bass.webp"
+    },
+    "Catfish.png": {
+        "id": 4,
+        "code_name": "catfish",
+        "new_file": "04_catfish.webp"
+    },
+    "Clownfish.png": {
+        "id": 5,
+        "code_name": "clownfish",
+        "new_file": "05_clownfish.webp"
+    },
+    "crab_dungeness.png": {
+        "id": 6,
+        "code_name": "crab_dungeness",
+        "new_file": "06_crab_dungeness.webp"
+    },
+    "Goldfish.png": {
+        "id": 7,
+        "code_name": "goldfish",
+        "new_file": "07_goldfish.webp"
+    },
+    "Pufferfish.png": {
+        "id": 8,
+        "code_name": "pufferfish",
+        "new_file": "08_pufferfish.webp"
+    },
+    "rainbow_trout.png": {
+        "id": 9,
+        "code_name": "rainbow_trout",
+        "new_file": "09_rainbow_trout.webp"
+    },
+    "Surgeonfish.png": {
+        "id": 10,
+        "code_name": "surgeonfish",
+        "new_file": "10_surgeonfish.webp"
+    }
+}
